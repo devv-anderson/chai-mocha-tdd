@@ -1,0 +1,16 @@
+{
+  "name": "chai-tdd",
+  "version": "1.0.0",
+  "description": "basic mocha and chai test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha calculator/test/calculator.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
